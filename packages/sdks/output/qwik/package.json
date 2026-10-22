@@ -115,11 +115,11 @@
     "isolated-vm": "^6.0.0"
   },
   "devDependencies": {
-    "@builder.io/qwik": "^1.5.1",
+    "@builder.io/qwik": "^1.20.0",
     "@builder.io/sdks": "workspace:*",
     "@types/node": "latest",
     "typescript": "5.5.2",
-    "vite": "^4.5.11"
+    "vite": "^6.4.4"
   },
   "peerDependencies": {
     "@builder.io/qwik": ">=1.0.0"
